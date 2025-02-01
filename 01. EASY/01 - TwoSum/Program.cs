@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bem-vindo ao TwoSum Problem!");
+            Console.WriteLine("Bem-vindo ao problema de Soma de Dois Números que Somam o Alvo!");
 
             int[] nums = ObterNumerosValidos();
             int target = ObterAlvoValido();
