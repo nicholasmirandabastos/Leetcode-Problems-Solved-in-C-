@@ -1,6 +1,6 @@
 # Leetcode Problems Solved in C#
 
-Este repositório tem como objetivo principal aplicar as resoluções realizadas no [LeetCode](https://leetcode.com/u/WKGHINV8vr/), documentando e organizando as soluções implementadas para problemas de programação e algoritmos.
+Este repositório tem como objetivo principal aplicar as resoluções realizadas no [LeetCode](https://leetcode.com/u/nicholasmiranda/), documentando e organizando as soluções implementadas para problemas de programação e algoritmos.
 
 ## Objetivos
 
