@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Bem-vindo ao programa de MinStack!");
+        Console.WriteLine("Bem-vindo ao programa de Min Stack!");
         // Instancia a MinStack
         MinStack minStack = new MinStack();
 
