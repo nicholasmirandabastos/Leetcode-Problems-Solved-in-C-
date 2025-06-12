@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Bem-vindo ao programa de Calculador de Formas de Subir!");
+        Console.WriteLine("Bem-vindo ao programa Calculadora de Formas de Subir a escada!");
         
         int steps;
 
